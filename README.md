@@ -41,3 +41,18 @@ TO DOs:
 1. Add command line options to identify the columns containing old and new names
 2. Add option to interactively specify file path(s) and columns containing old and new names
 3. Probably add support for advanced spreadsheets like xlsx, odt etc
+
+
+FOR CONTRIBUTORS
+
+Remember to create a new branch for each new commit and start a pull request. Just follow the direction here if you aren't sure: https://github.com/firstcontributions/first-contributions
+
+Version numbers are tracked with tags.Remember to check the version number with 
+```
+  git describe --tags
+```
+When pushing changes remember to explicitly specify the tags like so:
+
+```
+  git push --tags
+```
